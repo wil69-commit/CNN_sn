@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Deep Learning
+*.pth
+*.pt
+*.h5
+*.ckpt
+data/
+datasets/
+models/
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
